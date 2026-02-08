@@ -6,7 +6,7 @@ It allows users to manage student records with basic operations like add, update
 ## Features ✨
 - Add new student details  
 - Update existing student information  
-- Delete student records  
+- Delete student records.  
 - Display all students.  
 
 ## How to Run 🚀
