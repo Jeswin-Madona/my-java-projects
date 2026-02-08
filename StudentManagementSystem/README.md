@@ -7,7 +7,7 @@ It allows users to manage student records with basic operations like add, update
 - Add new student details  
 - Update existing student information  
 - Delete student records  
-- Display all students  
+- Display all students.  
 
 ## How to Run 🚀
 1. Compile the Java files using `javac`.  
